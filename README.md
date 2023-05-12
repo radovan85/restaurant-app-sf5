@@ -1,6 +1,6 @@
 # restaurant-app
 
-#### Ecommerce application with Spring Framework 5
+#### Restaurant application with Spring Framework 5
 
 ## IDE
 
@@ -21,3 +21,4 @@
 
 ####
 ####
+
